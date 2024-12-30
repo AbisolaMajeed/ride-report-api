@@ -1,0 +1,2 @@
+"id","driver_id","rider_id","pickup_location","dropoff_location","fare","status","created_at"
+1,1,2,"Egbeda","Gbagada","1500.00","completed","2024-12-30T12:40:46.000Z"
